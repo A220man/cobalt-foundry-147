@@ -1,6 +1,6 @@
 {
   "name": "cobalt-foundry-147-frontend",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -19,5 +19,17 @@
     "name": "Ryan Vo",
     "email": "ryandtvo@gmail.com",
     "url": "https://github.com/A220man"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
